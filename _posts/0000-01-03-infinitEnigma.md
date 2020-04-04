@@ -1,6 +1,8 @@
 ---
 layout: slide
-title: "Wlcome to our third slide!!"
+title: "Welcome to our third slide!!"
+author: infinitEnigma
+description: Testing slide options
 ---
 Testing third slide...
 Use the left arrow to go back!
